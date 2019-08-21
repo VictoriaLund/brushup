@@ -6,6 +6,8 @@ Markup and Style Brush Up
 * module: intro - spring 2019.
 * purpose: repeat 1st semester markup with an interactive twist.
 
+.
+
 Her er noget tekst.
 
 * en liste
@@ -18,4 +20,3 @@ hello
 
 
 / petj
- 
